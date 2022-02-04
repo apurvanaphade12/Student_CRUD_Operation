@@ -12,7 +12,7 @@ public class CIUD_Test {
 	      objTest.create("1", "Apurva", "1999- 08-12", "2022-01-15");
 		  objTest.create("2", "Purvi", "2000-01-24", "2022-01-05");
 		  objTest.read("1");
-		  objTest.update("3", "3", "Lakshmi", "1999-0s5-28","2022-02-01");
+		  objTest.update("3", "3", "Lakshmi", "1999-05-28","2022-02-01");
 		  objTest.delete("3");
 	}
 	
