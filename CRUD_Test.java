@@ -9,10 +9,10 @@ public class CIUD_Test {
 	
 	public static void main(String[] args) {
 		CIUD_Test objTest = new CIUD_Test();
-	      objTest.create("1", "Pooja Yadav", "2000-03-02", "2021-12-16");
-		  objTest.create("2", "Sudha Yadav", "2003-01-24", "2021-01-14");
+	      objTest.create("1", "Apurva", "1999- 08-12", "2022-01-15");
+		  objTest.create("2", "Purvi", "2001-01-24", "2022-01-05");
 		  objTest.read("1");
-		  objTest.update("3", "3", "Amruta", "1999-5-12","2021-9-1");
+		  objTest.update("3", "3", "Lakshmi", "1999-0s5-28","2022-02-01");
 		  objTest.delete("3");
 	}
 	
